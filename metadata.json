@@ -1,0 +1,6 @@
+{
+  "name": "FastBite",
+  "description": "Smart Canteen Ordering & Management app with customer ordering, token generation, live queue, staff dashboard, and menu management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
